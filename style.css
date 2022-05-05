@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&display=swap');
 
 body {
   background-color: #000;
@@ -19,10 +20,13 @@ h1, h2, p {
 }
 
 #title {
+  font-family: 'Caveat', cursive, sans-serif;
+  font-size: 3em;
   margin: 2.5vh 0 3.5vh 0;
   text-align: center;
 }
 #subtitle {
+  font-family: 'Caveat', cursive, sans-serif;
   display: none;
 }
 
@@ -36,6 +40,10 @@ h1, h2, p {
   background-color: #222;
   padding: 2.5em 0;
   margin-bottom: 2.5vh;
+  transition: background-color 0.3s;
+}
+.event-container:hover {
+  background-color: #333;
 }
 
 .event-title {
@@ -63,6 +71,12 @@ h1, h2, p {
 
 @media only screen and (min-width: 600px) {
 
+  body {
+    background-image: url("puzurs-bg.png");
+    background-repeat: no-repeat;
+    background-position: 80vw 10vh;
+  }
+
   #events {
     width: 50vw;
     margin-left: 25vw;
@@ -79,7 +93,7 @@ h1, h2, p {
   }
 
   #title {
-    font-size: 2.5em;
+    font-size: 3.5em;
     margin: 2.5vh 0 2vh 0;
   }
   #subtitle {
