@@ -23,6 +23,22 @@ function load() {
 
 function loadEvents() {
 
+  let html = "";
+  for(let i = 0; i < data.events.length; i ++) {
+
+    let curr = data.events[i];
+    html += `
+      <div class="event-container ${curr.panel ? "" : "grayed"}" ${curr.panel ? `onclick="panel(${i})"` : ""}>
+        <h2 class="event-title">${curr.title}</h2>
+        <p class="event-date">${curr.date}</p>
+        <p class="event-location">${curr.location}</p>
+      </div>
+    `;
+
+  }
+
+  getID("events").innerHTML = html;
+
 }
 
 function panel(id) {

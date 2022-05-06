@@ -19,13 +19,26 @@ h1, h2, p {
 #title {
   font-family: 'Kalam', cursive, sans-serif;
   font-size: 3em;
-  margin: 2.5vh 0 3.5vh 0;
+  margin: 2.5vh 0 0 0;
   text-align: center;
 }
 #subtitle {
   font-family: 'Kalam', cursive, sans-serif;
-  display: none;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+  border-top: 1px solid white;
+  display: inline-block;
+  transform: translateX(-50%);
+  padding: 1vh 15px;
+  margin: 0 0 2vh 50%;
 }
+#puzurs-bg {
+  position: fixed;
+  left: 100%;
+  top: 5%;
+  transform: translateX(-50%);
+}
+
 
 #events {
   width: 100%;
@@ -48,7 +61,11 @@ h1, h2, p {
 }
 #panel-title {
   text-align: center;
-  margin: 1vh 0 2vh 0;
+  margin: 1em 0 1em 0;
+}
+#panel-text {
+  text-align: justify;
+  margin: 0 0 1em 0;
 }
 #panel-bg {
   position: fixed;
@@ -56,10 +73,22 @@ h1, h2, p {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(0, 0, 0, 0.2);
+  background-color: rgb(0, 0, 0, 0.4);
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.5s;
+}
+#panel-close {
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  font-size: 2em;
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 0 10px 0 10px;
 }
 
 .event-container {
@@ -106,12 +135,6 @@ h1, h2, p {
 
 @media only screen and (min-width: 600px) {
 
-  body {
-    background-image: url("puzurs-bg.png");
-    background-repeat: no-repeat;
-    background-position: 80vw 0;
-  }
-
   #events {
     width: 50vw;
     margin-left: 25vw;
@@ -132,13 +155,9 @@ h1, h2, p {
     margin: 2.5vh 0 0 0;
   }
   #subtitle {
-    font-weight: 300;
-    letter-spacing: 0.2em;
-    border-top: 1px solid white;
-    display: inline-block;
-    transform: translateX(-50%);
     padding: 1vh 15px;
     margin: 0 0 5vh 50%;
   }
+
 
 }
