@@ -42,7 +42,7 @@ h1, h2, p {
 .event-container:hover {
   background-color: #333;
 }
-.grayed .event-container {
+.grayed:hover {
   background-color: #222;
 }
 
