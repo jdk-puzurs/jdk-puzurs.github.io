@@ -15,9 +15,6 @@ h1, h2, p {
 .text-center {
   text-align: center;
 }
-.grayed {
-  color: #888;
-}
 
 #title {
   font-family: 'Kalam', cursive, sans-serif;
@@ -45,10 +42,17 @@ h1, h2, p {
 .event-container:hover {
   background-color: #333;
 }
+.grayed .event-container {
+  background-color: #222;
+}
 
 .event-title {
   margin-left: 5%;
   font-weight: 400;
+}
+
+.grayed .event-title {
+  color: #888;
 }
 
 .event-date {
