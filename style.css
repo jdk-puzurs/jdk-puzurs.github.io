@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400&display=swap');
 
 body {
   background-color: #000;
@@ -20,13 +20,13 @@ h1, h2, p {
 }
 
 #title {
-  font-family: 'Caveat', cursive, sans-serif;
+  font-family: 'Kalam', cursive, sans-serif;
   font-size: 3em;
   margin: 2.5vh 0 3.5vh 0;
   text-align: center;
 }
 #subtitle {
-  font-family: 'Caveat', cursive, sans-serif;
+  font-family: 'Kalam', cursive, sans-serif;
   display: none;
 }
 
