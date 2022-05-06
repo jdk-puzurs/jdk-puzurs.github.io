@@ -1,0 +1,20 @@
+{
+
+  "events": [
+    {
+      "title": "Tec, upīte, šķindēdam!",
+      "date": "6. maijs",
+      "location": "Druvas kultūras centrs",
+      "panel": {
+        "text": "Druvas kultūras centrā 19:00.<br>Mēģinājums sākas 16:00.<br><br>Piedalīsies TDA \"Lielupe\" studija, TDA \"Kursa\", JDK \"Pavediens\", TDK \"Meduslāse\", JDK \"Puzurs\" un studija<br><br><b>Tērpi meitenēm:</b><br>Es mācēju / Es izkūlu - Nūrmuiža, zīļu vainags, kurpes, zaļā lente<br><br>Pelītes / Pieci vilki / Pār deviņi - Liepupe, kaspīne, kurpes, sarkanā lente<br><br><b>Tērpi puišiem:</b><br>Es mācēju / Es izkūlu - Pelēkās vestes, violetie / rozā lakati, kurpes<br><br>Pelītes / Pieci vilki / Pār deviņi - Zaļās vestes, zaļie lakati, kurpes, saktas"
+      }
+    },
+    {
+      "title": "Tec, upīte, šķindēdam!",
+      "date": "6. maijs",
+      "location": "Druvas kultūras centrs",
+      "panel": null
+    }
+  ]
+
+}
