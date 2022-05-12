@@ -49,8 +49,21 @@ function panel(id) {
   getID("panel-bg").style.opacity = 1;
   getID("panel-bg").style.pointerEvents = "all";
 
-  getID("panel-title").innerHTML = data.events[id].title;
-  getID("panel-text").innerHTML = data.events[id].panel.text;
+  document.body.style.overflow = "hidden";
+
+  let curr = data.events[id],
+      text = "";
+
+  if(typeof curr.panel.text === "object") {
+
+    for(let i = 0; i < curr.panel.text.length; i++) {
+      text += curr.panel.text[i] + "<br>";
+    }
+
+  } else text = curr.panel.text;
+
+  getID("panel-title").innerHTML = curr.title;
+  getID("panel-text").innerHTML = text;
 
 }
 
@@ -61,5 +74,7 @@ function panelClose() {
 
   getID("panel-bg").style.opacity = 0;
   getID("panel-bg").style.pointerEvents = "none";
+
+  document.body.style.overflow = "visible";
 
 }
