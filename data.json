@@ -36,6 +36,7 @@
       "location": "Druvas kultūras centrs",
       "panel": {
         "text": [
+          "  <a href=\"files/may30_01.docx\">Koncerta programma</a><br>",
           "<b>Dejas:</b>",
           "  Es mācēju danci vest",
           "  Jāņu dancis",
@@ -67,9 +68,16 @@
     },
     {
       "title": "Koncerts Saldū",
-      "date": "22. jūnijs",
+      "date": "22. jūnijs, 19:00",
       "location": "Kalnsētas parks",
-      "panel": null
+      "panel": {
+        "title": [
+          "<b>Dejas:</b>",
+          "  Es mācēju danci vest",
+          "  Jāņu dancis",
+          "  Palaid puķīti pa dambi"
+        ]
+      }
     },
     {
       "title": "Koncerts Rojā",
