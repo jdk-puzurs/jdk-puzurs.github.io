@@ -12,6 +12,10 @@ h1, h2, p {
   margin: 0;
 }
 
+a {
+  color: lightblue;
+}
+
 .text-center {
   text-align: center;
 }
