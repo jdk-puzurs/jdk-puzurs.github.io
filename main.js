@@ -57,7 +57,14 @@ function panel(id) {
   if(typeof curr.panel.text === "object") {
 
     for(let i = 0; i < curr.panel.text.length; i++) {
-      text += curr.panel.text[i] + "<br>";
+      
+      let currText = curr.panel.text[i];
+      for(let j = 0; j < currText.length; j++) {
+        if(currText[j] === ' ') currText.replace(' ', "&nbsp;");
+        else break;
+      }
+      text += currText + "<br>";
+      
     }
 
   } else text = curr.panel.text;
