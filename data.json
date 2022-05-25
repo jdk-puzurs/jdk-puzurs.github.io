@@ -2,28 +2,21 @@
 
   "events": [
     {
-      "title": "Tec, upīte, šķindēdam!",
-      "date": "6. maijs",
-      "location": "Druvas kultūras centrs",
+      "title": "Tuvu būt",
+      "date": "25. maijs, 18:00",
+      "location": "Druvas kultūras nams",
       "panel": {
-        "text": [
-          "Druvas kultūras centrā 19:00.",
-          "Mēģinājums sākas 16:00.<br>",
-          "Piedalīsies TDA \"Lielupe\" studija, TDA \"Kursa\", JDK \"Pavediens\", TDK \"Meduslāse\", JDK \"Puzurs\" un studija<br>",
+        text: [
+          "Mēģinājums 15:10 - 16:20<br>",
           "<b>Tērpi meitenēm:</b>",
-          "Es mācēju / Es izkūlu - Nūrmuiža, zīļu vainags, kurpes, zaļā lente<br>",
-          "Pelītes / Pieci vilki / Pār deviņi - Liepupe, kaspīne, kurpes, sarkanā lente<br>",
+          "  Es mācēju danci vest - Nūrmuižas tērps, zīļu vainags, zaļā lente, kurpes.",
+          "  Pelīšu polka - Lielupes tērps, kaspīne, sarkanā lente.",
           "<b>Tērpi puišiem:</b>",
-          "Es mācēju / Es izkūlu - Pelēkās vestes, violetie vai rozā lakati, kurpes<br>",
-          "Pelītes / Pieci vilki / Pār deviņi - Zaļās vestes, zaļie lakati, kurpes, saktas"
+          "  Es mācēju danci vest - Pelēkās vestes, violetie vai rozā lakati, zābaki.",
+          "  Es izjāju Prūšu zemi - Pelēkās vestes, violetie vai rozā lakati, zābaki."
+          "  Pelīšu polka - Zaļās vestes, zaļie lakati, kurpes, zeķes."
         ]
       }
-    },
-    {
-      "title": "Skolas koncerts",
-      "date": "25. maijs",
-      "location": "Druvas vidusskola",
-      "panel": null
     },
     {
       "title": "Saldus pagasta svētki",
