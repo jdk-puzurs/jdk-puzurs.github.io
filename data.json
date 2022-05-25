@@ -26,7 +26,19 @@
         "text": [
           "<b>Dejas:</b>",
           "  Es mācēju danci vest",
-          "  Pār deviņi novadiņi"
+          "  Pār deviņi novadiņi",
+          "<br>Mēģinājums 15:45 - 16:00"
+        ]
+      }
+    },
+    {
+      "title": "Kopmēģinājums dejai \"Miķelis\"",
+      "date": "29. maijs, 12:00",
+      "location": "Rīga",
+      "panel": {
+        "text": [
+          "Izbraucam 9:00",
+          "<a href=\"https://youtu.be/haMCy-2C08o\">Dejas video</a>"
         ]
       }
     },
