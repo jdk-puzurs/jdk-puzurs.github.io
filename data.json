@@ -21,8 +21,27 @@
     {
       "title": "Saldus pagasta svētki",
       "date": "28. maijs",
-      "location": "Druva",
-      "panel": null
+      "location": "Druvas stadions",
+      "panel": {
+        "text": [
+          "<b>Dejas:</b>",
+          "  Es mācēju danci vest",
+          "  Pār deviņi novadiņi"
+        ]
+      }
+    },
+    {
+      "title": "Dejas diena Saldus novadā",
+      "date": "30. maijs",
+      "location": "Druvas kultūras centrs",
+      "panel": {
+        "text": [
+          "<b>Dejas:</b>",
+          "  Es mācēju danci vest",
+          "  Jāņu dancis",
+          "  Pār deviņi novadiņi"
+        ]
+      }
     },
     {
       "title": "Koncerts Tukumā",
