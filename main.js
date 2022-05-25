@@ -60,7 +60,8 @@ function panel(id) {
       
       let currText = curr.panel.text[i];
       for(let j = 0; j < currText.length; j++) {
-        if(currText[j] === ' ') currText.replace(' ', "&nbsp;");
+        if(currText[j] === ' ')
+           currText = currText.replace(' ', "&nbsp;");
         else break;
       }
       text += currText + "<br>";
