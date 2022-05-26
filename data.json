@@ -24,10 +24,14 @@
       "location": "Druvas stadions",
       "panel": {
         "text": [
+          "Mēģinājums 15:45 - 16:10<br>",
           "<b>Dejas:</b>",
           "  Es mācēju danci vest",
           "  Pār deviņi novadiņi",
-          "<br>Mēģinājums 15:45 - 16:10"
+          "<br><b>Tērpi meitenēm:</b>",
+          "  Nūrmuižas tērps, zīļu vainags, kurpes.",
+          "<br><b>Tērpi puišiem:</b>",
+          "  Pelēkās vestes, zābaki, violetais vai rozā lakats."
         ]
       }
     },
