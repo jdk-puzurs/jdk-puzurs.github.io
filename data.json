@@ -72,7 +72,7 @@
       "location": "Rīga, Mežaparks",
       "panel": {
         "text": [
-          "<b>Deju repertuārs:</b><br>",
+          "<b>Deju repertuārs:</b>",
           "  Es mācēju danci vest",
           "  Vāverpolka",
           "  Jūras māte",
@@ -80,7 +80,7 @@
           "  Apkārt kalnu saule tek",
           "  Spriguļu sišana",
           "  Miķelis",
-          "<br>Izmaksas:",
+          "<br><b>Izmaksas:</b>",
           "  Gulēšana - 5 eiro par nakti (guļam 2 naktis)",
           "  Ēšana - Pašam savi izdevumi",
           "  Ceļa izdevumus sedz skola"
@@ -112,7 +112,7 @@
       "location": "Rīga, Mežaparks",
       "panel": {
         "text": [
-          "<b>Deju repertuārs:</b><br>",
+          "<b>Deju repertuārs:</b>",
           "  Es mācēju danci vest",
           "  Vāverpolka",
           "  Jūras māte",
