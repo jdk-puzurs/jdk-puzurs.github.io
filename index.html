@@ -10,9 +10,12 @@
         <link rel="stylesheet" href="style.css?r=${r}">
         <script src="main.js?r=${r}" charset="utf-8" />
       `;
+      setInterval(function () {
+        load();
+      }, 2000);
     </script>
   </head>
-  <body onload="load()">
+  <body>
 
     <h1 id="title">Puzurs</h1>
     <h2 id="subtitle">pasākumi</h2>
