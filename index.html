@@ -4,8 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JDK Puzurs</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="main.js" charset="utf-8"></script>
+    <script type="text/javascript">
+      let r = Math.floor(Math.random()*1000);
+      document.head.innerHTML += `
+        <link rel="stylesheet" href="style.css?r=${r}">
+        <script src="main.js?r=${r}" charset="utf-8"></script>
+      `;
+    </script>
   </head>
   <body onload="load()">
 
