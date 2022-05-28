@@ -5,17 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JDK Puzurs</title>
     <script type="text/javascript">
-      let r = Math.floor(Math.random()*1000);
-      document.head.innerHTML += `
-        <link rel="stylesheet" href="style.css?r=${r}">
-        <script src="main.js?r=${r}" charset="utf-8" />
-      `;
-      setInterval(function () {
-        load();
-      }, 2000);
+      let r = Math.floor( Math.random() * 1000 );
+      
+      document.head.innerHTML += `<link rel="stylesheet" href="style.css?r=${r}">`;
+      function loadScript() {
+        document.head.innerHTML += `<script src="main.js?r=${r}" charset="utf-8" />`;
+      }
     </script>
   </head>
-  <body>
+  <body onload="loadScript()">
 
     <h1 id="title">Puzurs</h1>
     <h2 id="subtitle">pasākumi</h2>
