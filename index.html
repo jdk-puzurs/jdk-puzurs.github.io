@@ -5,11 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JDK Puzurs</title>
     <script type="text/javascript">
-      let r = Math.floor( Math.random() * 1000 );
+      var r = Math.floor( Math.random() * 1000 );
       
       document.head.innerHTML += `<link rel="stylesheet" href="style.css?r=${r}">`;
+      
       function loadScript() {
-        document.head.innerHTML += `<script src="main.js?r=${r}" charset="utf-8" />`;
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200)
+            eval(xhttp.responseText);
+        };
+        xhttp.open("GET", "main.js?r=" + r, true);
+        xhttp.send();
       }
     </script>
   </head>
