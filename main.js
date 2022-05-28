@@ -42,7 +42,7 @@ function loadEvents() {
 
 }
 
-function panel(id) {
+var panel = function(id) {
 
   getID("panel").style.opacity = 1;
   getID("panel").style.pointerEvents = "auto";
@@ -76,7 +76,7 @@ function panel(id) {
 
 }
 
-function panelClose() {
+var panelClose = function() {
 
   getID("panel").style.opacity = 0;
   getID("panel").style.pointerEvents = "none";
