@@ -85,7 +85,7 @@ a {
   transition: opacity 0.5s;
 }
 #panel-close {
-  position: absolute;
+  position: fixed;
   top: -2px;
   right: -2px;
   font-size: 2em;
