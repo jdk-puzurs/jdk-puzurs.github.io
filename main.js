@@ -20,6 +20,7 @@ function load() {
   xhttp.send();
 
 }
+load();
 
 function loadEvents() {
 
