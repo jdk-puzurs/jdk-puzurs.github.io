@@ -2,31 +2,6 @@
 
   "events": [
     {
-      "title": "Dejas diena Saldus novadā",
-      "date": "30. maijs",
-      "location": "Druvas kultūras nams",
-      "panel": {
-        "text": [
-          "<a href=\"files/may30_01.docx\">Koncerta programma</a>",
-          "Mēģinājums 15:00 - 17:00<br>",
-          "<b>Tērpi meitenēm:</b>",
-          "  Es mācēju danci vest - Nūrmuižas tērps",
-          "  Pelīšu polka - Liepupes tērps",
-          "  Pār deviņi novadiņi - Liepupes tērps",
-          "<br><b>Tērpi puišiem:</b>",
-          "  Es mācēju danci vest - Pelēkā veste, zaļais lakats, zābaki",
-          "  Pelīšu polka - Zaļā veste, kurpes",
-          "  Pār deviņi novadiņi - Zaļā veste, zābaki"
-        ]
-      }
-    },
-    {
-      "title": "Koncerts Tukumā",
-      "date": "3. jūnijs",
-      "location": "Tukums",
-      "panel": null
-    },
-    {
       "title": "Mēģinājumi Dziesma dejo. Deja skan.",
       "date": "17. - 19. jūnijs",
       "location": "Rīga, Mežaparks",
