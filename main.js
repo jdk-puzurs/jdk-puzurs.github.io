@@ -16,7 +16,8 @@ function load() {
       }
   };
 
-  xhttp.open("GET", "data.json", true);
+  let r = Math.floor( Math.random() * 1000 );
+  xhttp.open("GET", "data.json?r=" + r, true);
   xhttp.send();
 
 }
