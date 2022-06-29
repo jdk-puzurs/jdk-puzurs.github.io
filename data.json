@@ -2,44 +2,19 @@
 
   "events": [
     {
-      "title": "Mēģinājumi Dziesma dejo. Deja skan.",
-      "date": "17. - 19. jūnijs",
-      "location": "Rīga, Mežaparks",
+      "title": "Zelta zemes vidiņā",
+      "date": "2. jūlijs, 22:00",
+      "location": "Rojas brīvdabas estrāde",
       "panel": {
         "text": [
-          "<b>Deju repertuārs:</b>",
-          "  Es mācēju danci vest",
-          "  Vāverpolka",
-          "  Jūras māte",
-          "  Es izjāju prūšu zemi",
-          "  Apkārt kalnu saule tek",
-          "  Spriguļu sišana",
-          "  Miķelis",
-          "<br><b>Izmaksas:</b>",
-          "  Gulēšana - 5 eiro par nakti (guļam 2 naktis)",
-          "  Ēšana - Pašam savi izdevumi",
-          "  Ceļa izdevumus sedz skola"
+          "<b>Mēģinājumi:</b>",
+          "  1. jūlijs, 17:00 - Skolā",
+          "  2. jūlijs, 16:00 - Rojā<br>",
+          "<b>Tērpi:</b>",
+          "  Meitenēm - Kursīšu tērps, zīļu vainags, rozā lentas",
+          "  Puišiem - Pelēkās vestes, rozā vai violetie lakati"
         ]
       }
-    },
-    {
-      "title": "Koncerts Saldū",
-      "date": "22. jūnijs, 19:00",
-      "location": "Kalnsētas parks",
-      "panel": {
-        "text": [
-          "<b>Dejas:</b>",
-          "  Es mācēju danci vest",
-          "  Jāņu dancis",
-          "  Palaid puķīti pa dambi"
-        ]
-      }
-    },
-    {
-      "title": "Koncerts Rojā",
-      "date": "2. jūlijs",
-      "location": "Roja",
-      "panel": null
     },
     {
       "title": "Dziesma dejo. Deja skan.",
