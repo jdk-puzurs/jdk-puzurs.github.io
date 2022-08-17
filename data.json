@@ -2,36 +2,10 @@
 
   "events": [
     {
-      "title": "Zelta zemes vidiņā",
-      "date": "2. jūlijs, 22:00",
-      "location": "Rojas brīvdabas estrāde",
-      "panel": {
-        "text": [
-          "<b>Mēģinājumi:</b>",
-          "  1. jūlijs, 17:00 - Skolā",
-          "  2. jūlijs, 16:00 - Rojā<br>",
-          "<b>Tērpi:</b>",
-          "  Meitenēm - Kursīšu tērps, zīļu vainags, rozā lentas",
-          "  Puišiem - Pelēkās vestes, rozā vai violetie lakati"
-        ]
-      }
-    },
-    {
-      "title": "Dziesma dejo. Deja skan.",
-      "date": "3. - 6. augusts",
-      "location": "Rīga, Mežaparks",
-      "panel": {
-        "text": [
-          "<b>Deju repertuārs:</b>",
-          "  Es mācēju danci vest",
-          "  Vāverpolka",
-          "  Jūras māte",
-          "  Es izjāju prūšu zemi",
-          "  Apkārt kalnu saule tek",
-          "  Spriguļu sišana",
-          "  Miķelis"
-        ]
-      }
+      "title": "Sezonas noslēgums",
+      "date": "19. augusts, 17:00",
+      "location": "Pie Laines",
+      "panel": null
     }
   ]
 
