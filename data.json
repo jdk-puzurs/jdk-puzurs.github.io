@@ -2,9 +2,27 @@
 
   "events": [
     {
-      "title": "Sezonas noslēgums",
-      "date": "19. augusts, 17:00",
-      "location": "Pie Laines",
+      "title": "Imuliņai 18",
+      "date": "8. oktobris, 20:00",
+      "location": "Kandavas kultūras nams",
+      "panel": null
+    },
+    {
+      "title": "Koncerts Brocēnos",
+      "date": "18. novembris",
+      "location": "Brocēnu kultūras centrs",
+      "panel": null
+    },
+    {
+      "title": "Koncerts Brocēnos",
+      "date": "3. decembris",
+      "location": "Brocēnu kultūras centrs",
+      "panel": null
+    },
+    {
+      "title": "Ziemassvētku kauss",
+      "date": "10. decembris",
+      "location": "Bauska",
       "panel": null
     }
   ]
