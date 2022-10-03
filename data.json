@@ -23,13 +23,15 @@
       "title": "Ziemassvētku kauss",
       "date": "10. decembris",
       "location": "Bauska",
-      "panel": [
-        "<b>Dejas:</b>",
-        "",
-        "Pelīšu polka",
-        "Es izkūlu rudzu riju",
-        "Jautrais stūris"
-      ]
+      "panel": {
+        "text": [
+          "<b>Dejas:</b>",
+          "",
+          "Pelīšu polka",
+          "Es izkūlu rudzu riju",
+          "Jautrais stūris"
+        ]
+      }
     }
   ]
 
