@@ -5,7 +5,15 @@
       "title": "Imuliņai 18",
       "date": "8. oktobris, 20:00",
       "location": "Kandavas kultūras nams",
-      "panel": null
+      "panel": {
+        "text": [
+          "<b>Puišiem:</b>",
+          "  Zaļās vestes, zaļie lakati, pelēkās bikses, kurpes, siksna, vilnas zeķes ar rakstu.",
+          "",
+          "<b>Meitenēm:</b>",
+          "  Liepupes tērps, kurpes, kaspīnes, sarkanā matu lenta."
+        ]
+      }
     },
     {
       "title": "Koncerts Brocēnos",
