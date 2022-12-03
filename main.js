@@ -64,7 +64,7 @@ function panel(id) {
       for(let j = 0; j < currText.length; j++) {
         if(currText[j] === ' ') {
           currText = currText.replace(' ', "&nbsp;");
-          i += 5;
+          j += 5;
         } else break;
       }
       text += currText + "<br>";
