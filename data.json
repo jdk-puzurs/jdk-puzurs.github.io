@@ -2,30 +2,33 @@
 
   "events": [
     {
-      "title": "Imuliņai 18",
-      "date": "8. oktobris, 20:00",
-      "location": "Kandavas kultūras nams",
+      "title": "Koncerts Brocēnos",
+      "date": "3. decembris, 16:00",
+      "location": "Brocēnu kultūras centrs",
       "panel": {
         "text": [
-          "<b>Puišiem:</b>",
-          "  Zaļās vestes, zaļie lakati, pelēkās bikses, kurpes, siksna, vilnas zeķes ar rakstu.",
+          "<b>Tērpi:</b>",
           "",
-          "<b>Meitenēm:</b>",
-          "  Liepupes tērps, kurpes, kaspīnes, sarkanā matu lenta."
+          "    <b>Es izkūlu rudzu riju</b> - 2. deja",
+          "<b>Meitenēm:</b> Nūrmuižas tērps, zīļu vainags, kurpes, zaļā lente",
+          "<b>Puišiem:</b> Pelēkā veste, zaļais lakats, kurpes, zeķes ar rakstu",
+          "",
+          "    <b>Pie jūriņas maliņā</b> - 8. deja",
+          "<b>Meitenēm:</b> Kursīšu tērps, zīļu vainags, kurpes, rozā matu lentes",
+          "<b>Puišiem:</b> Jaunā spīdīgā veste, violetais lakats, zābaki, sakta",
+          "",
+          "    <b>To pie rokas dancināju</b> - 15. deja",
+          "<b>Meitenēm:</b> Linu brunči, sakta, dzīpars, pastalas, josta",
+          "<b>Puišiem:</b> Linu krekls, baltas vilnas zeķes, pastalas, jaunās bikses, siksna",
+          "",
+          "    <b>Labs ar labu</b> - 19. deja",
+          "<b>Meitenēm:</b> Linu brunči, sakta, ņieburs, priekšauts, pastalas, mētru vainags",
+          "<b>Puišiem:</b> Gaišā veste, oranži/violetais lakats, zeķes ar rakstu, pastalas",
+          "",
+          "Mēģinājums 14:35 - 14:55",
+          "Koncerts 17:00"
         ]
       }
-    },
-    {
-      "title": "Koncerts Brocēnos",
-      "date": "18. novembris",
-      "location": "Brocēnu kultūras centrs",
-      "panel": null
-    },
-    {
-      "title": "Koncerts Brocēnos",
-      "date": "3. decembris",
-      "location": "Brocēnu kultūras centrs",
-      "panel": null
     },
     {
       "title": "Ziemassvētku kauss",
