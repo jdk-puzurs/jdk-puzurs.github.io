@@ -17,6 +17,8 @@ a {
 }
 
 .text-center {
+  display: inline-block;
+  width: 100%;
   text-align: center;
 }
 
@@ -70,8 +72,9 @@ a {
   margin: 1em 0 1em 0;
 }
 #panel-text {
-  text-align: distribute;
-  margin: 0 0 1em 0;
+  margin: 0 0.5em 1em 0.5em;
+  text-align: justify;
+  text-align-last: center;
 }
 #panel-bg {
   position: fixed;
