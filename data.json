@@ -2,45 +2,23 @@
 
   "events": [
     {
-      "title": "Koncerts Brocēnos",
-      "date": "3. decembris, 16:00",
-      "location": "Brocēnu kultūras centrs",
+      "title": "Ziemassvētku koncerts Druvas vidusskolā",
+      "date": "22. decembris, 18:00",
+      "location": "Druvas vidusskolas aktu zāle",
       "panel": {
         "text": [
           "<b>Tērpi:</b>",
           "",
-          "<u><b>Es izkūlu rudzu riju</b> - 2. deja</u>",
-          "<b>Meitenēm:</b> Nūrmuižas tērps, zīļu vainags, kurpes, zaļā lente",
-          "<b>Puišiem:</b> Pelēkā veste, zaļais lakats, kurpes, zeķes ar rakstu",
+          "<u><b>Labs ar labu</b> - 3. priekšnesums</u>",
+          "<b>Meitenēm:</b> Linu brunči, ņieburs, zeķes bez raksta, pastalas, mētru vainags, dzīpars",
+          "<b>Puišiem:</b> Gaišā veste, pelēkās bikses, siksna, oranži/violetais lakats, zeķes bez raksta, pastalas",
           "",
-          "<u><b>Pie jūriņas maliņā</b> - 8. deja</u>",
-          "<b>Meitenēm:</b> Kursīšu tērps, zīļu vainags, kurpes, rozā matu lentes",
-          "<b>Puišiem:</b> Jaunā spīdīgā veste, violetais lakats, zābaki, sakta",
+          "<u><b>To pie rokas dancināj'</b> - 10. priekšnesums</u>",
+          "<b>Meitenēm:</b> Linu brunči, tautiskā josta, zeķes bez raksta, pastalas, mētru vainags, dzīpars",
+          "<b>Puišiem:</b> Krekls, pelēkās bikses, siksna, oranži/violetais lakats, zeķes bez raksta, pastalas",
           "",
-          "<u><b>To pie rokas dancināju</b> - 15. deja</u>",
-          "<b>Meitenēm:</b> Linu brunči, sakta, dzīpars, pastalas, josta",
-          "<b>Puišiem:</b> Linu krekls, baltas vilnas zeķes, pastalas, jaunās bikses, siksna",
-          "",
-          "<u><b>Labs ar labu</b> - 19. deja</u>",
-          "<b>Meitenēm:</b> Linu brunči, sakta, ņieburs, priekšauts, pastalas, mētru vainags",
-          "<b>Puišiem:</b> Gaišā veste, oranži/violetais lakats, zeķes ar rakstu, pastalas",
-          "",
-          "Mēģinājums 14:35 - 14:55",
-          "Koncerts 17:00"
-        ]
-      }
-    },
-    {
-      "title": "Ziemassvētku kauss",
-      "date": "10. decembris",
-      "location": "Bauska",
-      "panel": {
-        "text": [
-          "<b>Dejas:</b>",
-          "",
-          "Pelīšu polka",
-          "Es izkūlu rudzu riju",
-          "Jautrais stūris"
+          "Ģenerālmēģinājums 16:00",
+          "Koncerts 18:00"
         ]
       }
     }
